@@ -1,0 +1,9 @@
+git clear
+ls
+cd file path
+git init
+git status
+git add filename
+git commit -m "add comment"
+rm filename
+git restore file name
