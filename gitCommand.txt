@@ -7,4 +7,4 @@ git add filename
 git commit -m "add comment "
 rm filename
 git restore file name
-git remote -v
+git remote -vgit
