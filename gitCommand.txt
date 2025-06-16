@@ -14,4 +14,5 @@ cd file name
 git clone  https url 
 cd.. back to previous file
  git push origin master
+ git pull origin master
  Pull command git to locall
