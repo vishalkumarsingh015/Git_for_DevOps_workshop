@@ -13,3 +13,4 @@ mkdir new file create
 cd file name
 git clone  https url 
 cd.. back to previous file
+ git push origin master
